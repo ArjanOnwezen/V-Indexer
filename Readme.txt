@@ -61,7 +61,7 @@ On your command prompt run this command from same directory: "pip install -r req
 
 xlrd==1.2.0
 docx==0.2.4
-python-docx==0.8.10
+python-docx==0.8.11
 pyfiglet==0.8.post1
 
 
@@ -118,6 +118,7 @@ Options:
 Contact -
 
 For reporting issues or for any further information, Please contact me at - ananth DOT venk88 AT gmail DOT com
+
 
 
 
